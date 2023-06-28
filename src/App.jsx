@@ -1,10 +1,11 @@
 import { useState } from "react";
+import Container from "./components/Container";
 
 function App() {
   return (
-    <>
-      <div>hello world</div>
-    </>
+    <div className="flex items-center justify-center">
+      <Container />
+    </div>
   );
 }
 
