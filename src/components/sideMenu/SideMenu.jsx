@@ -48,7 +48,7 @@ const SideMenu = () => {
         <img
           src="https://images.unsplash.com/photo-1569336415962-a4bd9f69cd83?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80"
           alt="Map Image"
-          className="object-cover h-[100%]"
+          className="object-cover h-[50%] rounded-xl "
         />
       </div>
     </div>
